@@ -2,4 +2,4 @@ rename1.py
 renamemany.py
 __pycache__/
 *.pyc
-photos
+/photos
